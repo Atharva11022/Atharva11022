@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Atharva Abhyankar 👋
 
-<!--
-**Atharva11022/Atharva11022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.Tech Data Science student at COEP Technological University, specializing in Deep Learning, Computer Vision, and Large Scale Data Systems. 
 
-Here are some ideas to get you started:
+My engineering focus bridges the gap between raw data science and production-grade software. I build decoupled, cloud-native machine learning microservices and zero-downtime CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+* Architecting headless ML microservices using **FastAPI** and **Docker**.
+* Implementing robust model versioning and tracking with **DVC** and **DagsHub**.
+* Exploring advanced NLP and context-aware text classification architectures.
+
+### 🛠️ Technical Arsenal
+
+**Data Science & Machine Learning:**
+* Python | PyTorch | TensorFlow | Keras | Scikit-Learn | XGBoost 
+* NLP (NLTK, Word Embeddings, TF-IDF) | Computer Vision (OpenCV)
+
+**MLOps & Backend Engineering:**
+* Docker | DVC | GitHub Actions (CI/CD) | Apache Spark
+* FastAPI | Django | Streamlit | SQLite | MongoDB 
+
+### 📈 Highly Scalable Projects
+* **Cloud-Native Fraud Detection:** A fully decoupled ML microservice with asynchronous REST API routing and automated Pytest validation.
+* **Android Malware Detection:** A hybrid security pipeline integrating static and dynamic analysis via Random Forest classifiers.
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/atharva-abhyankar](https://linkedin.com/in/atharva-abhyankar)
+* **Email:** atharvaabhyankar4@gmail.com
