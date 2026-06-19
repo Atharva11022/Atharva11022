@@ -24,5 +24,5 @@ My engineering focus bridges the gap between raw data science and production-gra
 * **Android Malware Detection:** A hybrid security pipeline integrating static and dynamic analysis via Random Forest classifiers.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/atharva-abhyankar](https://linkedin.com/in/atharva-abhyankar)
+* **LinkedIn:** [linkedin.com/in/atharva-abhyankar](https://linkedin.com/in/atharva-abhyankar4)
 * **Email:** atharvaabhyankar4@gmail.com
